@@ -1,5 +1,7 @@
 # react-beautiful-chat
 
+[![Run on Repl.it](https://repl.it/badge/github/mattmezza/react-beautiful-chat)](https://repl.it/github/mattmezza/react-beautiful-chat)
+
 `react-beautiful-chat` provides an intercom-like chat window that can be included easily in any project for free. It provides no messaging facilities, only the view component.
 
 `react-beautiful-chat` is an improved version of `react-chat-window` (which you can find [here](https://github.com/kingofthestack/react-live-chat))
